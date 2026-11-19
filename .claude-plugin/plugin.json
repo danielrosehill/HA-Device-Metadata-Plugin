@@ -1,0 +1,12 @@
+{
+  "name": "ha-device-metadata",
+  "version": "1.0.0",
+  "description": "Install the Device Metadata Home Assistant integration via HACS, auto-fill device records by scanning the registry, and interview the user for location and purpose.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/HA-Device-Metadata-Plugin",
+  "license": "MIT",
+  "keywords": ["home-assistant", "hacs", "device-inventory", "metadata", "lights", "zigbee"]
+}
